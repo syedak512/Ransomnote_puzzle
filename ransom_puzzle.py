@@ -32,6 +32,11 @@ def can_construct(ransomNote, magazine):
             return True
             # return true
 if(can_construct('ransomNote','magazine')):
+ # If constructing "ransomNote" with "magazine" is possible
     print('true')
+    # then "true" will be printed
 else:
+# Otherwise
     print('false')
+    # "false" will be printed
+  #Worked with Humayun to confirm
